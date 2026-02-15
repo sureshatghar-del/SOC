@@ -1,2 +1,2 @@
 # SOC
-Auther - Suresh Paudel 
+Auther - Suresh Poudel 
